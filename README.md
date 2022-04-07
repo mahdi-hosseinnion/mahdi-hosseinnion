@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mahdi-hosseinnion
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 👀 I’m interested in Android development
+- 📫 How to reach me: <br/>
         Email: mahdimahdismh@gmail.com
 
 <!---
